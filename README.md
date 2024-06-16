@@ -25,8 +25,8 @@ Push to the branch (git push origin feature/improvement).
 Create a new Pull Request.
 
 ## Tools Used
-MySQLWorkbench
-Google Sheet
-Google Slides
-W3Schools
-ChatGPT
+- MySQLWorkbench
+- Google Sheet
+- Google Slides
+- W3Schools
+- ChatGPT
