@@ -8,7 +8,8 @@ def get_db_connection():
         host='localhost',
         user='root',
         password='!Qazqazqaz769',
-        database='gdb023'
+        database='gdb023',
+        port=3306
     )
     return conn
 
