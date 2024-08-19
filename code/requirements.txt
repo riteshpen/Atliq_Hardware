@@ -1,3 +1,3 @@
-pandas
-streamlit
-mysql-connector-python
+pandas==2.2.2
+streamlit==1.37.1
+mysql-connector-python==9.0.0
